@@ -3,6 +3,8 @@
 > vue 模版, 配置了多个页面(`src/modules`) 和 路由的 `history` 模式. <br/>
 > 本地的devserver配置了 `historyApiFallback`, 把 `/boss` rewrite到 `boss.html`; 生产环境中, 服务端需要注意配合配置;
 
+> ps: 项目里顺手装了iview
+
 [详情写在sf了](https://segmentfault.com/n/1330000015475464)
 
 ## Build Setup
