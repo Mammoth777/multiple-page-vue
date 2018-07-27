@@ -1,6 +1,7 @@
-# demo5
+# vue 多页面+history路由
 
-> A Vue.js project
+> vue 模版, 配置了多个页面(`src/modules`) 和 路由的 `history` 模式
+> 本地的devserver配置了 `historyApiFallback`, 把 `/boss` rewrite到 `boss.html`; 生产环境中, 服务端需要注意配合配置;
 
 ## Build Setup
 
