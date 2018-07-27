@@ -5,7 +5,10 @@
 
 ## Build Setup
 
+clone项目到本地
+
 ``` bash
+
 # install dependencies
 npm install
 
